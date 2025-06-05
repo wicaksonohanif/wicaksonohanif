@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="" alt="banner" width="100%"/>
+  <img src="https://github.com/wicaksonohanif/wicaksonohanif-banner/blob/main/rect925_2.png" alt="banner" width="100%"/>
 </p>
 
 <!-- Header -->
@@ -29,6 +29,7 @@
 
 
 <!-- Stats-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wicaksonohanif&layout=compact&theme=tokyonight" alt="Top Languages" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wicaksonohanif&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
