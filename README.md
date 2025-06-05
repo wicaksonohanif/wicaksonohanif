@@ -8,7 +8,7 @@
 
 <!-- Slogan -->
 <p align="center">
-  Hello! My name is Wicaksono Hanif Supriyanto. I am an undergraduate Informatics student at Gunadarma University with a deep passion for Artificial Intelligence, Data Science, and Data Analytics. I also have hobbies in graphic design and content production.
+I am an undergraduate Informatics student at Gunadarma University with a deep passion for Artificial Intelligence, Data Science, and Data Analytics. I also have hobbies in graphic design and content production.
 </p>
 
 <!-- Bagian 4: Social Media -->
