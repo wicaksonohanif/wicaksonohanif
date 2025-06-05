@@ -1,16 +1,38 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="" alt="banner" width="100%"/>
+</p>
 
-<!--
-**wicaksonohanif/wicaksonohanif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header -->
+<h1 align="center">Hello! I'm Wicaksono Hanif Supriyanto👋</h1>
 
-Here are some ideas to get you started:
+<!-- Slogan -->
+<p align="center">
+  Hello! My name is Wicaksono Hanif Supriyanto. I am an undergraduate Informatics student at Gunadarma University with a deep passion for Artificial Intelligence, Data Science, and Data Analytics. I also have hobbies in graphic design and content production.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Bagian 4: Social Media -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/wicaksono-hanif-supriyanto-8959332a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/wicaksonohanif_?igsh=OGpwOGs0d2ZwYjUw" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@wicaksonohanif" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+   <a href="https://medium.com/@wicaksonohanif_" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Bagian 5: Bahasa yang Sering Digunakan -->
+### 🧠 Bahasa yang Sering Digunakan
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
