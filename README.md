@@ -33,3 +33,9 @@ I am an undergraduate Informatics student at Gunadarma University with a deep pa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wicaksonohanif&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<!-- Contact-->
+<p align="center">
+  <strong>For business inquiries, please contact:</strong><br/>
+  contact.wicaksonohanif@gmail.com
+</p>
+
