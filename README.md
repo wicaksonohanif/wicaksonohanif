@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/wicaksonohanif/wicaksonohanif-banner/blob/main/rect925_2.png" alt="banner" width="100%"/>
+  <img src="https://github.com/wicaksonohanif/wicaksonohanif-banner/blob/main/banner_logo.png" alt="banner" width="100%"/>
 </p>
 
 <!-- Header -->
