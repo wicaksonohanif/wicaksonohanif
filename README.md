@@ -16,7 +16,7 @@ I am an undergraduate Informatics student at Gunadarma University with a deep pa
   <a href="https://www.linkedin.com/in/wicaksono-hanif-supriyanto-8959332a4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/wicaksonohanif_?igsh=OGpwOGs0d2ZwYjUw" target="_blank">
+  <a href="https://www.instagram.com/wicaksonohanif_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@wicaksonohanif" target="_blank">
