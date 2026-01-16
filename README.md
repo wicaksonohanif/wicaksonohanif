@@ -30,7 +30,7 @@ I am an undergraduate Informatics student at Gunadarma University with a deep pa
 
 <!-- Stats-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wicaksonohanif&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wicaksonohanif" alt="Top Languages" />
 </p>
 
 <!-- Contact-->
