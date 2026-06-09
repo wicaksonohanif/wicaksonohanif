@@ -8,7 +8,7 @@
 
 <!-- Slogan -->
 <p align="center">
-I am an undergraduate Informatics student at Gunadarma University with a deep passion for Artificial Intelligence, Data Science, and Data Analytics. I also have hobbies in graphic design and content production.
+Third-year Informatics student specializing in Data Science and Machine Learning. Proficient in building end-to-end pipelines for multi-modal data, including large-scale text analysis, audio processing, and computer vision. Proven leader and educator as a Technical Lead and Laboratory Assistant. Seeking to pursue a role as a Data Analyst, Data Scientist, or AI/ML Engineer.
 </p>
 
 <!-- Bagian 4: Social Media -->
